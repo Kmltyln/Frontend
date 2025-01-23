@@ -1,1 +1,1 @@
-Vercel linki:https://frontend-897v.vercel.app/
+Otel için Bootstrap ve css kullanarak bir web sitesi yazdım.
